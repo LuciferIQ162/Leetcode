@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//brute force implementation
 int* twoSum(int* nums, int numsSize, int target, int* returnSize)
 {
     *returnSize = 2;
